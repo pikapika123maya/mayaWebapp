@@ -1,3 +1,4 @@
-/Users/yanyinliu/Documents/WebApp2018/mayaWebapp/src/main/java/com/maya/webapp/servlet/WebappServlet.java
-/Users/yanyinliu/Documents/WebApp2018/mayaWebapp/src/main/java/com/maya/webapp/application/controller/RootController.java
-/Users/yanyinliu/Documents/WebApp2018/mayaWebapp/src/main/java/com/maya/webapp/application/Application.java
+/Users/thomas/Documents/workspace/mayaApp/src/main/java/com/maya/webapp/application/config/WebMvcConfig.java
+/Users/thomas/Documents/workspace/mayaApp/src/main/java/com/maya/webapp/application/configuration/XmlConfiguration.java
+/Users/thomas/Documents/workspace/mayaApp/src/main/java/com/maya/webapp/application/Application.java
+/Users/thomas/Documents/workspace/mayaApp/src/main/java/com/maya/webapp/application/controller/RootController.java
